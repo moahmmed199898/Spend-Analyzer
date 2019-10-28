@@ -1,0 +1,1 @@
+{"version":3,"file":"dataAnalyzer.d.ts","sourceRoot":"","sources":["../../src/logic/dataAnalyzer.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,cAAc,EAAE,IAAI,EAAC,MAAM,SAAS,CAAC;AAC7C,MAAM,CAAC,OAAO,OAAO,YAAY;IAC7B,IAAI,EAAC,cAAc,EAAE,CAAM;gBACf,IAAI,EAAC,cAAc,EAAE;IAK1B,cAAc;IAad,eAAe,CAAC,IAAI,EAAC,MAAM;CASrC"}

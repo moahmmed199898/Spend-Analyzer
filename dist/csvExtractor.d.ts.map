@@ -1,0 +1,1 @@
+{"version":3,"file":"csvExtractor.d.ts","sourceRoot":"","sources":["../src/csvExtractor.ts"],"names":[],"mappings":"AACA,MAAM,CAAC,OAAO,OAAO,SAAS;IAC1B,OAAO,CAAC,OAAO,CAAS;IACxB,OAAO,CAAC,IAAI,CAA2B;gBAC3B,OAAO,EAAC,MAAM;IAK1B,OAAO,CAAC,IAAI;IAOZ,OAAO,CAAC,wBAAwB;IAWhC,OAAO,CAAC,cAAc;IAUtB,OAAO,CAAC,aAAa;CAIxB"}
